@@ -56,10 +56,10 @@ This repository is intended for educational purposes only. You are welcome to us
 
 ## Contributing
 
-If you would like to contribute to this repository, please follow the guidelines in the CONTRIBUTING.md file.
+If you would like to contribute to this repository, feel free to contact us.
 
 ## License
 
-The code is free to fork and alter
+The code is free to fork and alter.
 
 
