@@ -34,7 +34,7 @@ To get started with the code examples in this repository, you will need to have 
 
 To clone this repository, run the following command in your terminal:
 
-```git clone https://github.com/username/threejs-lecture-summary.git```
+```git clone https://github.com/2alf/FMKThree.JS.git```
 
 
 Once you have cloned the repository, you can navigate to each project directory and follow the instructions in the corresponding README.
