@@ -1,8 +1,9 @@
-# FMKThree.JS
-Three.js lecture summary and docs including the projects code for 2023 creative coding class.
-# Three.js Lecture Summary and Docs - Creative Coding Class 2023
 
+
+# Three.js Lecture Summary and Docs - Creative Coding Class 2023
 This repository contains the code and documentation for the Three.js lecture presented during the 2023 Creative Coding class. 
+
+<img src="https://fmk.singidunum.ac.rs/h-content/uploads/2021/06/favicon.png" alt="My Image" width="200">
 
 ## Table of Contents
 
