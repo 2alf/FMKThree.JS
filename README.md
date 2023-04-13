@@ -32,10 +32,10 @@ This repository serves as a resource for students who attended the Three.js lect
 
 The repository covers  the following:
 
-- [Project 1: Creating a Basic Three.js Scene]()
-- [Project 2: Implementing the scene into a website]()
-- [Project 3: Using WebGL to import custom blender objects into websites]()
-- [Project 4: Building a Three.js Game (WIP)]()
+- [Project 1: Creating a Basic Three.js Scene](https://github.com/2alf/FMKThree.JS/tree/main/17.04.2023)
+- [Project 2: Implementing the scene into a website](https://github.com/2alf/FMKThree.JS/tree/main/17.04.2023)
+- [Project 3: Using WebGL to import custom blender objects into websites](https://github.com/2alf/FMKThree.JS/tree/main/WebGL)
+- [Project 4: Building a Three.js Game (WIP)](#)
 
 
 ## Getting Started
@@ -47,7 +47,7 @@ To clone this repository, run the following command in your terminal:
 ```git clone https://github.com/2alf/FMKThree.JS.git```
 
 
-Once you have cloned the repository, you can navigate to each project directory and follow the instructions in the corresponding README.
+Once you have cloned the repository, you can navigate to each project directory and follow the instructions in the corresponding PDF file.
 Instructions are currently only available in Serbian. They will be translated in due time.
 
 ## Usage
