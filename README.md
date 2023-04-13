@@ -62,3 +62,4 @@ If you would like to contribute to this repository, please follow the guidelines
 
 The code is free to fork and alter
 
+<img src="https://media.tenor.com/uYP_Nkq8VPsAAAAd/coding-hello-world.gif"/>
